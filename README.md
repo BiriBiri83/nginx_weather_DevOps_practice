@@ -1,1 +1,1 @@
-# ngnix_wearher_DevOps_practice
+# nginx_weather_DevOps_practice
